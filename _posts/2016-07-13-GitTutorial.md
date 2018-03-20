@@ -67,5 +67,5 @@ git branc 查看时如出现
 
 <br>
 
-转载请注明：[张清兵的博客](https://zqb-666.github.io/shuangxuanhuiyqh/) » [点击阅读原文](https://zqb-666.github.io/shuangxuanhuiyqh/2018/03/GitTutorial/)     
+转载请注明：[张清兵的博客](https://zqb-666.github.io/) » [点击阅读原文](https://zqb-666.github.io/2018/03/GitTutorial/)     
 
